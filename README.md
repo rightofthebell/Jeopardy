@@ -1,7 +1,7 @@
 # Jeopardy
 I created python scripts to scrape J-Archive (a Jeopardy fan-site) to get all of the recorded questions and answers. I then built an iPhone app to play historic Jeopardy games.
 
-![alt text](https://imgur.com/a/8pdwxHp)
+![Screenshot](https://imgur.com/a/8pdwxHp)
 This is a view of the questions
 The second picture after showing the answer. Currently the scoring isn't implimented yet.
 
