@@ -14,6 +14,8 @@
 		F79F47E422ADF05D00414588 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F79F47E222ADF05D00414588 /* LaunchScreen.storyboard */; };
 		F79F47EF22ADF05D00414588 /* jeopardyTesterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F79F47EE22ADF05D00414588 /* jeopardyTesterTests.swift */; };
 		F79F47FA22ADF05D00414588 /* jeopardyTesterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F79F47F922ADF05D00414588 /* jeopardyTesterUITests.swift */; };
+		F79F480822AF45D300414588 /* temp.json in Resources */ = {isa = PBXBuildFile; fileRef = F79F480722AF45D300414588 /* temp.json */; };
+		F7A18D7522B5F26A00803752 /* fullJeopardyHistory.json in Resources */ = {isa = PBXBuildFile; fileRef = F7A18D7422B5F26A00803752 /* fullJeopardyHistory.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		F79F47F522ADF05D00414588 /* jeopardyTesterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = jeopardyTesterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F79F47F922ADF05D00414588 /* jeopardyTesterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = jeopardyTesterUITests.swift; sourceTree = "<group>"; };
 		F79F47FB22ADF05D00414588 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F79F480722AF45D300414588 /* temp.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = temp.json; sourceTree = "<group>"; };
+		F7A18D7422B5F26A00803752 /* fullJeopardyHistory.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = fullJeopardyHistory.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +101,8 @@
 		F79F47D822ADF05A00414588 /* jeopardyTester */ = {
 			isa = PBXGroup;
 			children = (
+				F7A18D7422B5F26A00803752 /* fullJeopardyHistory.json */,
+				F79F480722AF45D300414588 /* temp.json */,
 				F79F47D922ADF05A00414588 /* AppDelegate.swift */,
 				F79F47DB22ADF05A00414588 /* ViewController.swift */,
 				F79F47DD22ADF05A00414588 /* Main.storyboard */,
@@ -232,6 +238,8 @@
 				F79F47E422ADF05D00414588 /* LaunchScreen.storyboard in Resources */,
 				F79F47E122ADF05D00414588 /* Assets.xcassets in Resources */,
 				F79F47DF22ADF05A00414588 /* Main.storyboard in Resources */,
+				F79F480822AF45D300414588 /* temp.json in Resources */,
+				F7A18D7522B5F26A00803752 /* fullJeopardyHistory.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
